@@ -61,6 +61,7 @@ main{
     width: 100%;
     font-size: 25px;
     align-items: center;
+    outline: none;
     text-align: end;
     margin-bottom: 5px;
     justify-content: flex-end;
